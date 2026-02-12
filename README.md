@@ -1,2 +1,5 @@
-# Customer-Churn-Analysis-Report
-Customer-Churn-Analysis-Report--main
+# Customer Churn Analysis Report
+
+The dashboard looks.  
+![dashboard](/1.png)
+![dashboard](/2.png)
